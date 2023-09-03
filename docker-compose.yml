@@ -10,10 +10,10 @@ services:
   db:
     image: mysql:5.7
     environment:
-      MYSQL_ROOT_PASSWORD: "password"
+      MYSQL_ROOT_PASSWORD: "1234"
       MYSQL_DATABASE: "ticketflickdb"
       MYSQL_USER: "php_docker"
-      MYSQL_PASSWORD: "password"
+      MYSQL_PASSWORD: "1234"
     volumes:
       - "./database/ticketflickdb.sql:/docker-entrypoint-initdb.d/ticketflickdb.sql"
 
@@ -24,4 +24,4 @@ services:
     environment:
       PMA_HOST: db
       PMA_PORT: 3306
-
+ 

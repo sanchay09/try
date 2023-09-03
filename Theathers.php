@@ -328,10 +328,10 @@
    </div>
 
  <!-- <div class="theartercontainer">
-    <div class="theaters"> <a href="Selectseats.html" target="_blank" class="theaterslist">PVR: 4DX, Orion Mall, Dr Rajkumar Road</a>
+    <div class="theaters"> <a href="Selectseats.php" target="_blank" class="theaterslist">PVR: 4DX, Orion Mall, Dr Rajkumar Road</a>
         <div class="buttons">
-       <div id="but1"> <button class="lang"><a href="Selectseats.html" target="_blank" style="text-decoration: none; color:rgb(231, 130, 130);" >Hindi</button> </a></div>
-       <div id="but2"><button class="format"><a href="Selectseats.html" target="_blank"style="text-decoration: none; color:rgb(231, 130, 130);">2D</button> </a></div>
+       <div id="but1"> <button class="lang"><a href="Selectseats.php" target="_blank" style="text-decoration: none; color:rgb(231, 130, 130);" >Hindi</button> </a></div>
+       <div id="but2"><button class="format"><a href="Selectseats.php" target="_blank"style="text-decoration: none; color:rgb(231, 130, 130);">2D</button> </a></div>
           </div>
         </div>
          

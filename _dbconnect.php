@@ -1,7 +1,7 @@
 <?php
-$server = "localhost";
-$username = "php_docker";
-$password = "password";
+$server = "try-main-db-1";
+$username = "root";
+$password = "1234";
 $database = "ticketflickdb";
 
 $conn = mysqli_connect($server, $username, $password, $database);

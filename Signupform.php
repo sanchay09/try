@@ -11,9 +11,9 @@
        $cpass=$_POST['cpassword'];
        $mobno=$_POST['mobno'];  
         $exists=false;
-       $servername = "localhost";
+       $servername = "try-main-db-1";
        $username = "root";
-       $password = "";
+       $password = "1234";
        $database = "ticketflickdb";
  
        // Create a connection
@@ -244,7 +244,7 @@ label{
     <div class="logincontainer">
     
     <h1 class="text-center">Signup Here</h1> 
-    <form action="/MovieWebsite/Signupform.php" method="post">
+    <form action="login.php" method="post">
     
         <div class="form-group"> 
             <label for="username">Username</label> 

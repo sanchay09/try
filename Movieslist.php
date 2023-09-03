@@ -221,8 +221,8 @@ echo'
      <!-- <div class="moviescontainer1">
       
         <div id="item2">
-          <a href="Theathers.html" class="moviesLinkList" target="_blank"><img src="images/ranjana.jpg" width="100%" height="240px"></a>
-          <div> <a href="Theathers.html" class="nameofmovies">Raanjhana</a></div>
+          <a href="Theathers.php" class="moviesLinkList" target="_blank"><img src="images/ranjana.jpg" width="100%" height="240px"></a>
+          <div> <a href="Theathers.php" class="nameofmovies">Raanjhana</a></div>
         </div>
   
         <div id="item2">

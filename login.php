@@ -6,9 +6,9 @@ $showError=false;
 if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 
-    $servername = "localhost";
+    $servername = "try-main-db-1";
     $username = "root";
-    $password = "";
+    $password = "1234";
     $database = "ticketflickdb";
 
     // Create a connection
@@ -220,7 +220,7 @@ button[type="submit"] {
     <div class="logincontainer">
     
     <h1 class="text-center">Login Here</h1> 
-    <form action="/MovieWebsite/login.php" method="post">
+    <form action="index.php" method="post">
     
         <div class="form-group"> 
             <label for="username">Username</label> 

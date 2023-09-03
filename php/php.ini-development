@@ -323,7 +323,7 @@ disable_classes =
 ;highlight.comment = #FF9900
 ;highlight.keyword = #007700
 ;highlight.default = #0000BB
-;highlight.html    = #000000
+;highlight.php    = #000000
 
 ; If enabled, the request will be allowed to complete even if the user aborts
 ; the request. Consider enabling it if executing long requests, which may end up
@@ -565,7 +565,7 @@ report_memleaks = On
 ;docref_root = "/phpmanual/"
 
 ; http://php.net/docref-ext
-;docref_ext = .html
+;docref_ext = .php
 
 ; String to output before an error message. PHP's default behavior is to leave
 ; this setting blank.
@@ -1023,7 +1023,7 @@ cli_server.color = On
 ; SQL to deliberately corrupt the database file are disabled. This forbids
 ; writing directly to the schema, shadow tables (eg. FTS data tables), or
 ; the sqlite_dbpage virtual table.
-; https://www.sqlite.org/c3ref/c_dbconfig_defensive.html
+; https://www.sqlite.org/c3ref/c_dbconfig_defensive.php
 ; (for older SQLite versions, this flag has no use)
 ;sqlite3.defensive = 1
 

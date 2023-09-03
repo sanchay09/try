@@ -3,7 +3,7 @@
 
  session_unset();
  session_destroy();
- header("Location: Firstpage.php");
+ header("Location: index.php");
 
 
 ?>

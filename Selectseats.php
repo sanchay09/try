@@ -244,86 +244,86 @@ body{
         <div class="leftseatsheader">
         <div class="leftseats">
          <div class="row">A</div>
-         <div class="seat"> <button class="seatbut"><a href="payment.html" onclick="myconfirm()" style="text-decoration:none; color: #2dc492;" target="_blank" onclick="confirm">1</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href="payment.php" onclick="myconfirm()" style="text-decoration:none; color: #2dc492;" target="_blank" onclick="confirm">1</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
         </div>
 
         <div class="leftseats">
             <div class="row">B</div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
            </div>
 
            <div class="leftseats">
             <div class="row">C</div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
            </div>
 
            <div class="leftseats">
             <div class="row">D</div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
            </div>
 
            <div class="leftseats">
             <div class="row">E</div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
            </div>
 
            <div class="leftseats">
             <div class="row">F</div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-            <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+            <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
            </div>
 
         </div>
@@ -332,90 +332,90 @@ body{
         <div class="rightseatsheader">
             <div class="rightseats">
                 <div class="row">G</div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
             </div>
            
             <div class="rightseats">
                 <div class="row">H</div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
                </div>
     
                
                <div class="rightseats">
                 <div class="row">I</div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-         <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+         <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
                </div>
     
                
                <div class="rightseats">
                 <div class="row">J</div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
                </div>
     
                
                <div class="rightseats">
                 <div class="row">K</div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
                </div>
     
                
                <div class="rightseats">
                 <div class="row">L</div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
-                <div class="seat"> <button class="seatbut"><a href=payment.html style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">1</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">2</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">3</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">4</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">5</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">6</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">7</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">8</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">9</button></a></div>
+                <div class="seat"> <button class="seatbut"><a href=payment.php style="text-decoration:none; color: #2dc492;" target="_blank">10</button></a></div>
                </div>
     
                
